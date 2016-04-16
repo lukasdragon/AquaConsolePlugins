@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<plugins>
+    <plugin name="Test Plugin" author="AquaDark" description="A testing plugin">www.google.ca</plugin>
+</plugins>
