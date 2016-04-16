@@ -1,4 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <plugins>
-    <plugin name="Test Plugin" author="AquaDark" description="A testing plugin">www.google.ca</plugin>
+    <plugin name="DevPlugin" author="AquaDark" description="Adds your new best friend Henry to tuck in your shirt">https://github.com/lukasdragon/AquaConsolePlugins/blob/master/DevPlugin.dll?raw=true</plugin>
 </plugins>
